@@ -2,7 +2,7 @@
 OpenCore installation and support for 5k monitor LG
 Some works is not mine, but from other users. so credits go to them
 
-![alt text](https://github.com/mgrandinetti/Z490-VISIONG-LG5K/aboutthismac.png?raw=true)
+![alt text](https://github.com/mgrandinetti/Z490-VISIONG-LG5K/blob/main/aboutthismac.png?raw=true)
 
 
 
