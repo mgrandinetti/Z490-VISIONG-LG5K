@@ -1,4 +1,4 @@
-# Z490-VISIONG-LG5K
+# GYGABYTE Z490 VISIONG BIGSUR
 OpenCore installation and support for 5k monitor LG
 ![alt text](https://github.com/mgrandinetti/Z490-VISIONG-LG5K/blob/main/aboutthismac.png?raw=true)
 
