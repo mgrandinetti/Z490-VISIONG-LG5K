@@ -2,6 +2,10 @@
 OpenCore installation and support for 5k monitor LG
 Some works is not mine, but from other users. so credits go to them
 
+![alt text](https://github.com/mgrandinetti/Z490-VISIONG-LG5K/aboutthismac.jpg?raw=true)
+
+
+
 big thanx to #CaseySJ
 https://www.tonymacx86.com/threads/gigabyte-z490-vision-d-thunderbolt-3-i5-10400-amd-rx-580.298642/
 
