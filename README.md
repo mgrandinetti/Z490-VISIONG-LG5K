@@ -34,5 +34,11 @@ Support version opencore initial
 opencore 6.6\
 BigSur 11.2
 
+## Release 1.2
+update config.plist
+add igpu 630 without framebuffer in auto mode + dgpu w5700
+fix wake / sleep bigsur 11.2
+
+
 
 ![alt text](https://github.com/mgrandinetti/Z490-VISIONG-LG5K/blob/main/periferals.png?raw=true)
