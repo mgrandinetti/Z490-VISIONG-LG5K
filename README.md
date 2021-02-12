@@ -12,6 +12,12 @@ https://www.tonymacx86.com/threads/gigabyte-z490-vision-d-thunderbolt-3-i5-10400
 
 This repository is for support 5k Monitor lg @fullresolition
 
+# Release 1.2
+Update config.plist\
+Add igpu 630 without framebuffer in auto mode + dgpu w5700\
+fix wake / sleep bigsur 11.2
+
+
 ## Products
 z490 vision-g\
 64gb ram corsair\
@@ -34,10 +40,7 @@ Support version opencore initial
 opencore 6.6\
 BigSur 11.2
 
-## Release 1.2
-update config.plist
-add igpu 630 without framebuffer in auto mode + dgpu w5700
-fix wake / sleep bigsur 11.2
+
 
 
 
