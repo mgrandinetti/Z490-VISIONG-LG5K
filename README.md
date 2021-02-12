@@ -15,7 +15,8 @@ This repository is for support 5k Monitor lg @fullresolition
 # Release 1.2
 Update config.plist\
 Add igpu 630 without framebuffer in auto mode + dgpu w5700\
-fix wake / sleep bigsur 11.2
+fix wake / sleep bigsur 11.2.1
+Update to 11.2.1
 
 
 ## Products
@@ -38,7 +39,7 @@ Support version opencore initial
 
 ## Software
 opencore 6.6\
-BigSur 11.2
+Support from BigSur 11.2
 
 
 
