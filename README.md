@@ -22,7 +22,7 @@ Update to 11.2.1
 ## Products
 z490 vision-g\
 64gb ram corsair\
-vega 64 Sapphire\ tested
+vega 64 Sapphire \
 Radeon Pro W5700 Amd\
 Thunderbolt Titan-Ridge 2.0\
 Fenvi t919 bluetooth / wifi support\
