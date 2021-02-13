@@ -45,4 +45,5 @@ Support from BigSur 11.2
 
 
 
-![alt text](https://github.com/mgrandinetti/Z490-VISIONG-LG5K/blob/main/periferals.png?raw=true)
+![alt text](https://github.com/mgrandinetti/Z490-VISIONG-LG5K/blob/main/cpu_score.png?raw=true)
+![alt text](https://github.com/mgrandinetti/Z490-VISIONG-LG5K/blob/main/radeon_w5700.png?raw=true)
