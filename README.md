@@ -19,7 +19,7 @@ fix wake / sleep bigsur 11.2.1
 Update to 11.2.1
 
 
-# Products
+## Products
 z490 vision-g\
 64gb ram corsair\
 vega 64 Sapphire \
@@ -29,7 +29,7 @@ Fenvi t919 bluetooth / wifi support\
 WD Nvme M2 512Gb hdd
 Samung Nvme PRO 980
 
-# What Work
+## What Work
 usb mapping\
 wifi / bluetooth airdrop / Applewatch\
 Hibernate / Sleep\
@@ -37,10 +37,10 @@ Thunderbolt 3 support titan-ridge lg 5k 5120x2880\
 Lan Card internal\
 shutdown / restart\
 
-# what not Work
+## What not Work
 sidecar ipad / substituted with duet app
 
-# Software
+## Software
 opencore 6.6\
 Support from BigSur 11.2
 
