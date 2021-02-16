@@ -37,6 +37,9 @@ Thunderbolt 3 support titan-ridge lg 5k 5120x2880\
 Lan Card internal\
 shutdown / restart\
 
+## what not Work
+sidecar ipad / substituted with duet app
+
 Support version opencore initial
 
 ## Software
