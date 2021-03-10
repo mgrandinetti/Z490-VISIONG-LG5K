@@ -12,6 +12,12 @@ https://www.tonymacx86.com/threads/gigabyte-z490-vision-d-thunderbolt-3-i5-10400
 
 This repository is for support 5k Monitor lg @fullresolition
 
+
+# Release 1.3
+Update config.plist\
+Update to 11.2.3
+Fix random Lan disconnection after wake up
+
 # Release 1.2
 Update config.plist\
 Add igpu 630 without framebuffer in auto mode + dgpu w5700\
@@ -37,20 +43,14 @@ Thunderbolt 3 support titan-ridge lg 5k 5120x2880\
 Lan Card internal\
 shutdown / restart\
 with macpro1.1: \
-sidecar not working\
 netflix and prime on safari work
 
 ## What not Work
 sidecar ipad / substituted with duet app
 
-## Software
-opencore 6.6\
-Support from BigSur 11.2\
-
-## Software
+## Opencore support
 opencore 6.7\
 Support BisSur 11.2.3\
-Fix random Lan disconnection after wake up
 \\
 
 
