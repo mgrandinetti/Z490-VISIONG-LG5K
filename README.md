@@ -48,12 +48,18 @@ opencore 6.6\
 Support from BigSur 11.2
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ##
 =======
+=======
+>>>>>>> Stashed changes
 ## Software
 opencore 6.7\
 Support BisSur 11.2.3
 Fix random Lan disconnection after wake up
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 
