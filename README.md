@@ -22,8 +22,8 @@ Update to 11.2.1
 ## Products
 z490 vision-g\
 64gb ram corsair\
-vega 64 Sapphire \
-Radeon Pro W5700 Amd\
+Vega 64 Sapphire (Test and my first board)\
+Radeon Pro W5700 Amd (nwe board)\
 Thunderbolt Titan-Ridge 2.0\
 Fenvi t919 bluetooth / wifi support\
 WD Nvme M2 512Gb hdd
@@ -36,6 +36,9 @@ Hibernate / Sleep\
 Thunderbolt 3 support titan-ridge lg 5k 5120x2880\
 Lan Card internal\
 shutdown / restart\
+with macpro1.1: \
+sidecar not working\
+netflix and prime on safari work
 
 ## What not Work
 sidecar ipad / substituted with duet app
@@ -44,7 +47,14 @@ sidecar ipad / substituted with duet app
 opencore 6.6\
 Support from BigSur 11.2
 
+<<<<<<< Updated upstream
 ##
+=======
+## Software
+opencore 6.7\
+Support BisSur 11.2.3
+Fix random Lan disconnection after wake up
+>>>>>>> Stashed changes
 
 
 
