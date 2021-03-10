@@ -15,13 +15,13 @@ This repository is for support 5k Monitor lg @fullresolition
 
 # Release 1.3
 Update config.plist\
-Update to 11.2.3
+Update to 11.2.3\
 Fix random Lan disconnection after wake up
 
 # Release 1.2
 Update config.plist\
 Add igpu 630 without framebuffer in auto mode + dgpu w5700\
-fix wake / sleep bigsur 11.2.1
+fix wake / sleep bigsur 11.2.1\
 Update to 11.2.1
 
 
@@ -32,7 +32,7 @@ Vega 64 Sapphire (Test and my first board)\
 Radeon Pro W5700 Amd (nwe board)\
 Thunderbolt Titan-Ridge 2.0\
 Fenvi t919 bluetooth / wifi support\
-WD Nvme M2 512Gb hdd
+WD Nvme M2 512Gb hdd\
 Samung Nvme PRO 980
 
 ## What Work
