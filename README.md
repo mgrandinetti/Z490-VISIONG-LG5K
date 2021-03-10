@@ -45,12 +45,12 @@ sidecar ipad / substituted with duet app
 
 ## Software
 opencore 6.6\
-Support from BigSur 11.2
+Support from BigSur 11.2\
 
 ## Software
 opencore 6.7\
-Support BisSur 11.2.3
-Fix random Lan disconnection after wake up
+Support BisSur 11.2.3\
+Fix random Lan disconnection after wake up\
 
 
 
